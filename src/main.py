@@ -1,5 +1,6 @@
-def greet():
-    print("Welcome to the Data Engineering Bootcamp!")
+def main():
+    print("Hello, world!")
+
 
 if __name__ == "__main__":
-    greet()
+    main()
