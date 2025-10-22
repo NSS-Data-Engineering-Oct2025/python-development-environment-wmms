@@ -1,6 +1,5 @@
 def main():
-    print("Hello, world!")
-
+    print("Welcome to the Data Engineering Bootcamp!")
 
 if __name__ == "__main__":
     main()
